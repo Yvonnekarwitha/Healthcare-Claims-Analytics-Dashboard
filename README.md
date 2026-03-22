@@ -50,3 +50,13 @@ ORDER BY total_cost DESC;
 
 ## 🌐 Live Dashboard
 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2MxZDgzMmQtMDI3ZC00Y2E3LTk3NzMtZWE0NDA2MGIwYjhiIiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9)
+
+## 📊 Dashboard Preview
+![Dashboard Preview](dashboard.png)
+
+## 💡 Business Impact
+This dashboard helps stakeholders:
+- Identify high-cost diagnoses driving healthcare expenses
+- Monitor claim approval performance
+- Track cost and utilization trends over time
+- Support data-driven decision making in healthcare operations
